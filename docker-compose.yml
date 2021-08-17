@@ -1,0 +1,19 @@
+version: '3.8'
+
+services:
+  db:
+    container_name: postgres_container
+    image: postgres
+    restart: always
+    environment:
+      POSTGRES_USER: root
+      POSTGRES_PASSWORD: root
+      POSTGRES_DB: orders_service
+    ports:
+      - "5432:5432"
+    volumes:
+      - ./create_db.sql:/docker-entrypoint-initdb.d/create_db.sql
+      - pg_data:/var/lib/postgresql/data/
+
+volumes:
+  pg_data:

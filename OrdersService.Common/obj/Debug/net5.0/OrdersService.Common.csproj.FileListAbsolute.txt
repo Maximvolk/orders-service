@@ -1,0 +1,12 @@
+/Users/maximvolk/Prog/dotnet/orders-service/OrdersService.Common/bin/Debug/net5.0/OrdersService.Common.deps.json
+/Users/maximvolk/Prog/dotnet/orders-service/OrdersService.Common/bin/Debug/net5.0/OrdersService.Common.dll
+/Users/maximvolk/Prog/dotnet/orders-service/OrdersService.Common/bin/Debug/net5.0/ref/OrdersService.Common.dll
+/Users/maximvolk/Prog/dotnet/orders-service/OrdersService.Common/bin/Debug/net5.0/OrdersService.Common.pdb
+/Users/maximvolk/Prog/dotnet/orders-service/OrdersService.Common/obj/Debug/net5.0/OrdersService.Common.csprojAssemblyReference.cache
+/Users/maximvolk/Prog/dotnet/orders-service/OrdersService.Common/obj/Debug/net5.0/OrdersService.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maximvolk/Prog/dotnet/orders-service/OrdersService.Common/obj/Debug/net5.0/OrdersService.Common.AssemblyInfoInputs.cache
+/Users/maximvolk/Prog/dotnet/orders-service/OrdersService.Common/obj/Debug/net5.0/OrdersService.Common.AssemblyInfo.cs
+/Users/maximvolk/Prog/dotnet/orders-service/OrdersService.Common/obj/Debug/net5.0/OrdersService.Common.csproj.CoreCompileInputs.cache
+/Users/maximvolk/Prog/dotnet/orders-service/OrdersService.Common/obj/Debug/net5.0/OrdersService.Common.dll
+/Users/maximvolk/Prog/dotnet/orders-service/OrdersService.Common/obj/Debug/net5.0/ref/OrdersService.Common.dll
+/Users/maximvolk/Prog/dotnet/orders-service/OrdersService.Common/obj/Debug/net5.0/OrdersService.Common.pdb

@@ -1,0 +1,17 @@
+/Users/maximvolk/Prog/dotnet/orders-service/OrdersService.Persistence/obj/Debug/net5.0/OrdersService.Persistence.csprojAssemblyReference.cache
+/Users/maximvolk/Prog/dotnet/orders-service/OrdersService.Persistence/obj/Debug/net5.0/OrdersService.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maximvolk/Prog/dotnet/orders-service/OrdersService.Persistence/obj/Debug/net5.0/OrdersService.Persistence.AssemblyInfoInputs.cache
+/Users/maximvolk/Prog/dotnet/orders-service/OrdersService.Persistence/obj/Debug/net5.0/OrdersService.Persistence.AssemblyInfo.cs
+/Users/maximvolk/Prog/dotnet/orders-service/OrdersService.Persistence/obj/Debug/net5.0/OrdersService.Persistence.csproj.CoreCompileInputs.cache
+/Users/maximvolk/Prog/dotnet/orders-service/OrdersService.Persistence/bin/Debug/net5.0/OrdersService.Persistence.deps.json
+/Users/maximvolk/Prog/dotnet/orders-service/OrdersService.Persistence/bin/Debug/net5.0/OrdersService.Persistence.dll
+/Users/maximvolk/Prog/dotnet/orders-service/OrdersService.Persistence/bin/Debug/net5.0/ref/OrdersService.Persistence.dll
+/Users/maximvolk/Prog/dotnet/orders-service/OrdersService.Persistence/bin/Debug/net5.0/OrdersService.Persistence.pdb
+/Users/maximvolk/Prog/dotnet/orders-service/OrdersService.Persistence/bin/Debug/net5.0/OrdersService.Common.dll
+/Users/maximvolk/Prog/dotnet/orders-service/OrdersService.Persistence/bin/Debug/net5.0/OrdersService.Core.dll
+/Users/maximvolk/Prog/dotnet/orders-service/OrdersService.Persistence/bin/Debug/net5.0/OrdersService.Core.pdb
+/Users/maximvolk/Prog/dotnet/orders-service/OrdersService.Persistence/bin/Debug/net5.0/OrdersService.Common.pdb
+/Users/maximvolk/Prog/dotnet/orders-service/OrdersService.Persistence/obj/Debug/net5.0/OrdersService.Persistence.csproj.CopyComplete
+/Users/maximvolk/Prog/dotnet/orders-service/OrdersService.Persistence/obj/Debug/net5.0/OrdersService.Persistence.dll
+/Users/maximvolk/Prog/dotnet/orders-service/OrdersService.Persistence/obj/Debug/net5.0/ref/OrdersService.Persistence.dll
+/Users/maximvolk/Prog/dotnet/orders-service/OrdersService.Persistence/obj/Debug/net5.0/OrdersService.Persistence.pdb
