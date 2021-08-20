@@ -10,6 +10,6 @@ namespace OrdersService.Common.Resources
         public string DestinationCity { get; set; }
         public string DestinationAddress { get; set; }
         public decimal Weight { get; set; }
-        public DateTime PickUpDate { get; set; }
+        public string PickUpDate { get; set; }
     }
 }

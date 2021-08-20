@@ -8,7 +8,8 @@ namespace OrdersService.Web.Mapping
     {
         public ModelToResourceProfile()
         {
-            CreateMap<Order, OrderResource>();
+            CreateMap<Order, OrderResource>()
+                .ForMember(dest => dest.PickUpDate, opt => opt.MapFrom(src => src.PickUpDate.ToString("MM/dd/yyyy")));
         }
     }
 }
